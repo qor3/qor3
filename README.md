@@ -1,1 +1,1 @@
-![](https://komarev.com/qor3/?qor3=your-github-username)
+![](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
