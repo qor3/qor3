@@ -1,1 +1,1 @@
-![Profile Views](https://badges.pufler.dev/visits/qor3/README.md)
+![Profile Views](https://badges.pufler.dev/visits/qor3/qor3)
