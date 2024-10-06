@@ -1,1 +1,1 @@
-![Profile Views](https://badges.pufler.dev/visits/qor3/qor3)
+![](https://komarev.com/ghpvc/?qor3&color=lightgrey)
