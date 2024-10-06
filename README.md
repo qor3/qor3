@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?qor3&color=lightgrey)
+![](https://komarev.com/ghpvc/?qor3)
