@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?qor3=your-github-username)
+![](https://komarev.com/qor3/?qor3=your-github-username)
